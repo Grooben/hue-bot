@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vs/hue-bot/v16/.suo
+.vscode/settings.json
